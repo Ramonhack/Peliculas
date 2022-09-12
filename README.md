@@ -1,1 +1,1 @@
-# Peliculas
+#EXTM3U #EXT-X-VERSION:3 #EXT-X-TARGETDURATION:8 #EXT-X-MEDIA-SEQUENCE:10678 #EXTINF:8.008000, http://ts3.tvcluboficial.com/ts/AMC/_10678.ts?pl #EXTINF:6.006000, http://ts3.tvcluboficial.com/ts/AMC/_10679.ts?pl #EXTINF:7.741067, http://ts3.tvcluboficial.com/ts/AMC/_10680.ts?pl #EXTINF:6.272933, http://ts3.tvcluboficial.com/ts/AMC/_10681.ts?pl #EXTINF:8.008000, http://ts3.tvcluboficial.com/ts/AMC/_10682.ts?pl #EXTINF:5.939267, http://ts3.tvcluboficial.com/ts/AMC/_10683.ts?pl
